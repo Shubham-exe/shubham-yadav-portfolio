@@ -531,6 +531,21 @@ function About() {
             </h2>
           </div>
           <div className="resume-item">
+            <span className="resume-date">APR 2026 — PRESENT</span>
+            <h3>Software Developer</h3>
+            <p>Octa Networks · Full-time</p>
+            <ul>
+              <li>
+                Maintain and improve existing company websites, supporting ongoing updates
+                and reliable user experiences.
+              </li>
+              <li>
+                Collaborated in a two-person team to build a secure examination
+                application and its admin panel.
+              </li>
+            </ul>
+          </div>
+          <div className="resume-item">
             <span className="resume-date">FEB 2026 — APR 2026</span>
             <h3>Full Stack Web Development Intern</h3>
             <p>Slash Mark IT Solutions (OPC) Pvt. Ltd.</p>
